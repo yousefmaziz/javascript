@@ -1,0 +1,25 @@
+body{
+    font-family: "Titillium Web", sans-serif;
+    background-color: #24353f;
+}
+
+.our-color{
+    background-color: #24353f;
+    color: white;
+}
+h1{
+    color: #17a2b8;;
+}
+.card{
+    border-radius: 0px;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+input{
+    border-radius:5px ;
+}
+input:focus{
+    border-color: blue;
+}
+.navbar,.welcome-card{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
